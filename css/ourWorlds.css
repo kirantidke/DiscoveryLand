@@ -8,9 +8,7 @@ height: 50vh;
 .navbar-header img{
   background-color: transparent;
 }
-.navbar-style{
-    box-shadow: 0 5px #efefef;
-}
+
 .logo{
    
     height:48px;
@@ -24,17 +22,7 @@ height: 50vh;
 li a{
     color:white;
 }
-#hero{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color:white;
-  line-height: 3.8;
-  font-size: 50px;
-  font-weight: bold;
- 
-  
-}
+
 .c-intro__text o-h3 u-color-black{
   margin-top: 0%;
 }
@@ -49,8 +37,7 @@ width:100%;
 height:250;
 
 text-align: center;
-  
-  font-weight: bold;
+
   color: white;
 }
 .gallary{
